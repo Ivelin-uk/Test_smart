@@ -1,0 +1,12 @@
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/HelloController.java
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/HelloWorldApplication.java
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/config/SecurityConfig.java
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/config/WebConfig.java
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/controller/UserController.java
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/controller/api/AuthController.java
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/dto/AuthResponse.java
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/dto/LoginRequest.java
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/dto/RegisterRequest.java
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/model/User.java
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/repository/UserRepository.java
+/Users/ivelindilqnovmihaylov/Desktop/Test2/backend/src/main/java/com/example/helloworld/service/UserService.java
